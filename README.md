@@ -3,6 +3,8 @@
 تصميم تطبيق موبايل (حرفاوى)‏
 تيم الحريفة
 
+لينك العرض : https://www.figma.com/proto/Gs9q929g4C9OOrZ5ITvrki/Herfawy-App?node-id=172-2072&t=enCiSZFNCb73eq6p-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=172%3A2072&show-proto-sidebar=1 
+
 اسم المجال: الألعاب والفنون الرقمية
 
 اسم التحدى: تصميم تطبيق موبايل ‏UI/UX
@@ -16,7 +18,9 @@
 3- نورهان عطا محمد محمد
 4- فرح محمد محمود علي
       
-اسم الفكرة: تصميم تطبيق موبايل حرفاوى
+اسم الفكرة: تطبيق حرفاوى
+ لينك النسخة الاولية لتطبيق حرفاوي علي الموبايل : https://www.figma.com/proto/Gs9q929g4C9OOrZ5ITvrki/Herfawy-App?node-id=844-3108&t=RXl28uOc7FS1hdNb-1&scaling=scale-down&content-scaling=fixed&page-id=371%3A988&starting-point-node-id=844%3A3108&show-proto-sidebar=1 
+ لينك النسخة الاولية للموقع الالكتروني : https://www.figma.com/proto/Gs9q929g4C9OOrZ5ITvrki/Herfawy-App?node-id=1052-6071&t=enCiSZFNCb73eq6p-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1052%3A6071&show-proto-sidebar=1
 
 وصف الفكرة:‏
 
